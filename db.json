@@ -1,12 +1,12 @@
 [
   {
     "id": 1,
-    "name": "Бешеный Трамвай",
-    "style": "American Pale Ale"
+    "name": "American Pale Ale name",
+    "style": "American Pale Ale style"
   },
   {
     "id": 2,
-    "name": "cБешеный cТрамвай",
-    "style": "cAmerican cPale cAle"
+    "name": "cБешеный cТрамвай name",
+    "style": "cAmerican cPale cAle style"
   }
 ]
